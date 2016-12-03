@@ -1,0 +1,5 @@
+/home/david/code/nytimes-web-angular/bin/Debug/netcoreapp1.0/nytimes-web-angular.dll
+/home/david/code/nytimes-web-angular/bin/Debug/netcoreapp1.0/nytimes-web-angular.pdb
+/home/david/code/nytimes-web-angular/obj/Debug/netcoreapp1.0/nytimes-web-angular.AssemblyInfo.cs
+/home/david/code/nytimes-web-angular/obj/Debug/netcoreapp1.0/nytimes-web-angular.dll
+/home/david/code/nytimes-web-angular/obj/Debug/netcoreapp1.0/nytimes-web-angular.pdb
